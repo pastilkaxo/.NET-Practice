@@ -1,0 +1,17 @@
+C:\Users\Влад\source\repos\шарпы13\шарпы13\obj\Debug\net6.0\шарпы13.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\шарпы13\шарпы13\obj\Debug\net6.0\шарпы13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\шарпы13\шарпы13\obj\Debug\net6.0\шарпы13.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\шарпы13\шарпы13\obj\Debug\net6.0\шарпы13.AssemblyInfo.cs
+C:\Users\Влад\source\repos\шарпы13\шарпы13\obj\Debug\net6.0\шарпы13.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\шарпы13\шарпы13\bin\Debug\net6.0\шарпы13.exe
+C:\Users\Влад\source\repos\шарпы13\шарпы13\bin\Debug\net6.0\шарпы13.deps.json
+C:\Users\Влад\source\repos\шарпы13\шарпы13\bin\Debug\net6.0\шарпы13.runtimeconfig.json
+C:\Users\Влад\source\repos\шарпы13\шарпы13\bin\Debug\net6.0\шарпы13.dll
+C:\Users\Влад\source\repos\шарпы13\шарпы13\bin\Debug\net6.0\шарпы13.pdb
+C:\Users\Влад\source\repos\шарпы13\шарпы13\bin\Debug\net6.0\SoapFormatter.dll
+C:\Users\Влад\source\repos\шарпы13\шарпы13\obj\Debug\net6.0\шарпы13.csproj.CopyComplete
+C:\Users\Влад\source\repos\шарпы13\шарпы13\obj\Debug\net6.0\шарпы13.dll
+C:\Users\Влад\source\repos\шарпы13\шарпы13\obj\Debug\net6.0\refint\шарпы13.dll
+C:\Users\Влад\source\repos\шарпы13\шарпы13\obj\Debug\net6.0\шарпы13.pdb
+C:\Users\Влад\source\repos\шарпы13\шарпы13\obj\Debug\net6.0\шарпы13.genruntimeconfig.cache
+C:\Users\Влад\source\repos\шарпы13\шарпы13\obj\Debug\net6.0\ref\шарпы13.dll

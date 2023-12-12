@@ -1,0 +1,1 @@
+get_ProductID get_ProductName set_ProductName get_UPC set_UPC get_ProductCreator set_ProductCreator get_ProductPrice set_ProductPrice get_UsingTime set_UsingTime get_ProductCount DisplayObjectsInfo NewProductCount PrintProduct Equals GetHashCode ToString GetType

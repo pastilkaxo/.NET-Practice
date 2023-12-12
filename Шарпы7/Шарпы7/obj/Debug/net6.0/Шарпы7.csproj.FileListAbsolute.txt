@@ -1,0 +1,15 @@
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\obj\Debug\net6.0\Шарпы7.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\obj\Debug\net6.0\Шарпы7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\obj\Debug\net6.0\Шарпы7.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\obj\Debug\net6.0\Шарпы7.AssemblyInfo.cs
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\obj\Debug\net6.0\Шарпы7.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\bin\Debug\net6.0\Шарпы7.exe
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\bin\Debug\net6.0\Шарпы7.deps.json
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\bin\Debug\net6.0\Шарпы7.runtimeconfig.json
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\bin\Debug\net6.0\Шарпы7.dll
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\bin\Debug\net6.0\Шарпы7.pdb
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\obj\Debug\net6.0\Шарпы7.dll
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\obj\Debug\net6.0\refint\Шарпы7.dll
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\obj\Debug\net6.0\Шарпы7.pdb
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\obj\Debug\net6.0\Шарпы7.genruntimeconfig.cache
+C:\Users\Влад\source\repos\Шарпы7\Шарпы7\obj\Debug\net6.0\ref\Шарпы7.dll

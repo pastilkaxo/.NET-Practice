@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Шарпы11/1.0.0": {
+        "dependencies": {
+          "шарпы2": "1.0.0.0",
+          "Шарпы8": "1.0.0.0"
+        },
+        "runtime": {
+          "Шарпы11.dll": {}
+        }
+      },
+      "шарпы2/1.0.0.0": {
+        "runtime": {
+          "шарпы2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Шарпы8/1.0.0.0": {
+        "runtime": {
+          "Шарпы8.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Шарпы11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "шарпы2/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Шарпы8/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\bin
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\Dir
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\FileInfo.txt
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\LVODirInfo.cs
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\LVODiskinfo.cs
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\LVOFileInfo.cs
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\LVOFileManager.cs
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\LVOFiles
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\LVOInspect
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\LVOLog.cs
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\lvologfile.txt
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\obj
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\Program.cs
+C:\Users\Влад\source\repos\Шарпы12\Шарпы12\Шарпы12.csproj

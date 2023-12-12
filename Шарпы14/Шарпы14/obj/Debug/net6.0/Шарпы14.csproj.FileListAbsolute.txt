@@ -1,0 +1,15 @@
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\bin\Debug\net6.0\Шарпы14.exe
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\bin\Debug\net6.0\Шарпы14.deps.json
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\bin\Debug\net6.0\Шарпы14.runtimeconfig.json
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\bin\Debug\net6.0\Шарпы14.dll
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\bin\Debug\net6.0\Шарпы14.pdb
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\obj\Debug\net6.0\Шарпы14.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\obj\Debug\net6.0\Шарпы14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\obj\Debug\net6.0\Шарпы14.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\obj\Debug\net6.0\Шарпы14.AssemblyInfo.cs
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\obj\Debug\net6.0\Шарпы14.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\obj\Debug\net6.0\Шарпы14.dll
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\obj\Debug\net6.0\refint\Шарпы14.dll
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\obj\Debug\net6.0\Шарпы14.pdb
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\obj\Debug\net6.0\Шарпы14.genruntimeconfig.cache
+C:\Users\Влад\source\repos\Шарпы14\Шарпы14\obj\Debug\net6.0\ref\Шарпы14.dll

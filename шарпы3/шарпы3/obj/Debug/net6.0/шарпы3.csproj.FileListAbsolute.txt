@@ -1,0 +1,15 @@
+C:\Users\Влад\source\repos\шарпы3\шарпы3\bin\Debug\net6.0\шарпы3.exe
+C:\Users\Влад\source\repos\шарпы3\шарпы3\bin\Debug\net6.0\шарпы3.deps.json
+C:\Users\Влад\source\repos\шарпы3\шарпы3\bin\Debug\net6.0\шарпы3.runtimeconfig.json
+C:\Users\Влад\source\repos\шарпы3\шарпы3\bin\Debug\net6.0\шарпы3.dll
+C:\Users\Влад\source\repos\шарпы3\шарпы3\bin\Debug\net6.0\шарпы3.pdb
+C:\Users\Влад\source\repos\шарпы3\шарпы3\obj\Debug\net6.0\шарпы3.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\шарпы3\шарпы3\obj\Debug\net6.0\шарпы3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\шарпы3\шарпы3\obj\Debug\net6.0\шарпы3.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\шарпы3\шарпы3\obj\Debug\net6.0\шарпы3.AssemblyInfo.cs
+C:\Users\Влад\source\repos\шарпы3\шарпы3\obj\Debug\net6.0\шарпы3.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\шарпы3\шарпы3\obj\Debug\net6.0\шарпы3.dll
+C:\Users\Влад\source\repos\шарпы3\шарпы3\obj\Debug\net6.0\refint\шарпы3.dll
+C:\Users\Влад\source\repos\шарпы3\шарпы3\obj\Debug\net6.0\шарпы3.pdb
+C:\Users\Влад\source\repos\шарпы3\шарпы3\obj\Debug\net6.0\шарпы3.genruntimeconfig.cache
+C:\Users\Влад\source\repos\шарпы3\шарпы3\obj\Debug\net6.0\ref\шарпы3.dll
